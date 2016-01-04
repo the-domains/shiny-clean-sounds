@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Shiny Clean Sounds]]></title>
         <description><![CDATA[Shiny Clean Sounds]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/shiny-clean-sounds/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 04 Jan 2016 20:54:43 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 04 Jan 2016 20:57:17 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/shiny-clean-sounds/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Shiny Clean Sounds]]></title>
             <description><![CDATA[<article><h1>Shiny Clean Sounds</h1><p>Sound Editorial/Design and Composition</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8cdc5b4d991ccc3070a8f67971e6c52d9f8dc8ce.png"></article>]]></description>
-            <link>undefinedshiny-clean-sounds/index.html</link>
+            <link>https://thegrid.ai/shiny-clean-sounds/shiny-clean-sounds/index.html</link>
             <guid isPermaLink="false">f9fb23e6-746a-40bf-934c-1ca93046ea27</guid>
-            <pubDate>Mon, 04 Jan 2016 20:54:43 GMT</pubDate>
+            <pubDate>Mon, 04 Jan 2016 20:57:07 GMT</pubDate>
         </item>
     </channel>
 </rss>
