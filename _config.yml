@@ -1,0 +1,14 @@
+layout_spectrum: 0.9242749
+color:
+  saturation: 0.7019334
+  brandStrength: 1
+  lightness: 0.3152524
+  brandColors:
+    - '#0C0C0B'
+    - '#C6C7BC'
+    - '#65655C'
+    - '#E0B442'
+    - '#77A39A'
+  rhythmicContrast: 0.4280344
+typography_spectrum: 0.7083781
+name: Shiny Clean Sounds
