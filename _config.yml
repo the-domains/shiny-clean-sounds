@@ -1,28 +1,40 @@
-name: Shiny Clean Sounds
 favicon: null
-layout_spectrum: 1
-typography_spectrum: 0.6678
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
+name: Shiny Clean Sounds
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+purpose: []
 color:
+  saturation: 0.5021482
+  brandStrength: 1
+  lightness: 0.632116
   brandColors:
     - '#ffffff'
     - '#000000'
     - '#797979'
     - '#b0b0b0'
     - '#dc452a'
-  brandStrength: 1
-  lightness: 0.3152524
-  saturation: 0.7019334
-  rhythmicContrast: 0.4280344
-purpose: []
+  rhythmicContrast: 0.6750805
+typography_spectrum: 0.6678
+cta:
+  bucket: null
+  version: null
+  domain: null
+layout_spectrum: 1
+analytics:
+  twitter: null
+  google: null
+  facebook: null
