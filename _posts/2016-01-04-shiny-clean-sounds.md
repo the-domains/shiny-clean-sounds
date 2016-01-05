@@ -3,21 +3,21 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: Sound Editorial/Design and Composition
-datePublished: '2016-01-04T22:37:57.378Z'
-dateModified: '2016-01-04T22:36:31.997Z'
+datePublished: '2016-01-05T03:11:58.691Z'
+dateModified: '2016-01-05T00:05:19.628Z'
 title: Shiny Clean Sounds
 author: []
 sourcePath: _posts/2016-01-04-shiny-clean-sounds.md
 published: true
 authors: []
 publisher:
+  favicon: null
   name: null
   domain: null
   url: null
-  favicon: null
 url: shiny-clean-sounds/index.html
 _type: Article
 
