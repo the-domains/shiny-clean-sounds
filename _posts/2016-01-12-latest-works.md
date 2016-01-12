@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
-datePublished: '2016-01-12T21:40:41.820Z'
-dateModified: '2016-01-12T21:40:37.519Z'
+datePublished: '2016-01-12T21:40:57.177Z'
+dateModified: '2016-01-12T21:40:44.151Z'
 title: Latest Works
 author: []
 sourcePath: _posts/2016-01-12-latest-works.md
