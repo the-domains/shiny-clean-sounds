@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: Sound Editorial/Design and Composition
-datePublished: '2016-01-12T17:46:15.120Z'
-dateModified: '2016-01-12T17:46:12.064Z'
+datePublished: '2016-01-12T17:48:35.587Z'
+dateModified: '2016-01-12T17:47:41.241Z'
 title: Shiny Clean Sounds
 author: []
 sourcePath: _posts/2016-01-04-shiny-clean-sounds.md
@@ -35,5 +35,5 @@ _type: Article
 ![Re-Recording Mix Assistant](https://s3-us-west-2.amazonaws.com/the-grid-img/p/44f78e0cef8740790b5ed658fce107f1bb1a8fce.jpg)
 ![Dialogue Editor](https://s3-us-west-2.amazonaws.com/the-grid-img/p/2298ab967d4cd559448de18540f11356232e2b27.jpg)
 ![Assistant Sound Editorial](https://s3-us-west-2.amazonaws.com/the-grid-img/p/a0ec49d8559db21dbddb1c2f56b6d715a5f99077.jpg)
-![Assistant Sound Editorial](https://the-grid-user-content.s3-us-west-2.amazonaws.com/dbe4473f-a985-4bc8-9890-57d387d72ed4.jpg)
-![Assistant Sound Editorial](https://the-grid-user-content.s3-us-west-2.amazonaws.com/27284d33-cc40-46be-9f6f-bf26f0f1f983.jpg)
+![Assistant Sound Editorial](https://s3-us-west-2.amazonaws.com/the-grid-img/p/8fd9e966abf9e8d11f974072f76d9c4569beacf2.jpg)
+![Assistant Sound Editorial](https://s3-us-west-2.amazonaws.com/the-grid-img/p/0cdf661548d2a928b222b54dab9919f7f73272ee.jpg)
