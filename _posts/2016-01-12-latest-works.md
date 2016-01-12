@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-01-12T21:40:57.177Z'
-dateModified: '2016-01-12T21:40:44.151Z'
+datePublished: '2016-01-12T21:42:46.099Z'
+dateModified: '2016-01-12T21:42:42.237Z'
 title: Latest Works
 author: []
 sourcePath: _posts/2016-01-12-latest-works.md
@@ -28,7 +28,7 @@ _type: Article
 **_As You Are_**/ U.S.A. (Director: Miles Joris-Peyrafitte, Screenwriters: Miles Joris-Peyrafitte, Madison Harrison) ---_As You Are_ is the telling and retelling of a relationship between three teenagers as it traces the course of their friendship through a construction of disparate memories prompted by a police investigation.
 
 _Cast: Owen Campbell, Charlie Heaton, Amandla Stenberg, John Scurti, Scott Cohen, Mary Stuart Masterson. World Premiere_
-![Sound Designing the Subtleties of Independent Film](https://the-grid-user-content.s3-us-west-2.amazonaws.com/679f7192-2d06-414b-a7c9-c0da75b9279d.png)
+![Sound Designing the Subtleties of Independent Film](https://s3-us-west-2.amazonaws.com/the-grid-img/p/45ab03531e81733c3c13d64537c5f9d744903ce1.png)
 ![Léa](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8a31d303-c538-40e7-8add-77a0084820a5.jpg)
 
 **_Léa_**/ U.S.A. (Director: Connor Simpson, Screenwriter: Erlendur Sveinsson) ---_As You Are_is the telling and retelling of a relationship between three teenagers as it traces the course of their friendship through a construction of disparate memories prompted by a police investigation.
