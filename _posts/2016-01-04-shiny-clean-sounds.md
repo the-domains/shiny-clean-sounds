@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: Sound Editorial/Design and Composition
-datePublished: '2016-01-12T17:12:17.654Z'
-dateModified: '2016-01-12T17:12:08.275Z'
+datePublished: '2016-01-12T17:25:23.441Z'
+dateModified: '2016-01-12T17:25:16.583Z'
 title: Shiny Clean Sounds
 author: []
 sourcePath: _posts/2016-01-04-shiny-clean-sounds.md
@@ -22,7 +22,7 @@ url: shiny-clean-sounds/index.html
 _type: Article
 
 ---
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/a5fedce3c86522c034ff1d08d61c43a0d17eeb73.png)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c7ff12c5-6d58-4d8a-875e-9098870b908c.png)
 ![As You Are: Sundance Official Selection 2016](https://s3-us-west-2.amazonaws.com/the-grid-img/p/85d61e9c7ea64fd6b76666b426b48c75f6bd3d0f.png)
 ![Sound Designing the Subtleties of Independent Film](https://s3-us-west-2.amazonaws.com/the-grid-img/p/908606ddaf99b0927e4679e6ee37b573c85b4c81.png)
 ![Character Voice Recording - Ballad of Gay Tony](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b3a14a65-8e4a-4e6b-bea0-0906c373dfa9.jpg)
