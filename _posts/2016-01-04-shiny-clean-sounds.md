@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: Sound Editorial/Design and Composition
-datePublished: '2016-01-12T17:48:35.587Z'
-dateModified: '2016-01-12T17:47:41.241Z'
+datePublished: '2016-01-12T18:17:17.933Z'
+dateModified: '2016-01-12T18:02:19.521Z'
 title: Shiny Clean Sounds
 author: []
 sourcePath: _posts/2016-01-04-shiny-clean-sounds.md
@@ -26,7 +26,7 @@ _type: Article
 ![As You Are: Sundance Official Selection 2016](https://s3-us-west-2.amazonaws.com/the-grid-img/p/21ef7122d24f0a300c8f826777a2e9d2bd7b67b3.png)
 ![Sound Designing the Subtleties of Independent Film](https://s3-us-west-2.amazonaws.com/the-grid-img/p/ffb787e761a3214b3d4d7798d0e230854caaf3e1.png)
 ![Character Voice Recording - Ballad of Gay Tony](https://s3-us-west-2.amazonaws.com/the-grid-img/p/5ed80fd817d96d495ba47550a66b8ba0437a63a4.jpg)
-![Assistant Sound Editorial](https://s3-us-west-2.amazonaws.com/the-grid-img/p/a44d6fae2f60c38a61545f06b63edaab7df690e8.jpg)
+![Assistant Sound Editorial](https://s3-us-west-2.amazonaws.com/the-grid-img/p/294091b49a8188618a8e1de6ba472851a8004816.jpg)
 ![Assistant Sound Editorial](https://s3-us-west-2.amazonaws.com/the-grid-img/p/49f65f9996e2cb680bfd5febe39af7a0c527f03c.jpg)
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/bf369c0f7ca87f987ebcad6a3929c5f96ad5c2e6.jpg)
 ![Assistant Sound Editor](https://s3-us-west-2.amazonaws.com/the-grid-img/p/21a4f9d8f272c6dfcd9cc0bc4e20754a7538b268.jpg)
