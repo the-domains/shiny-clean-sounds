@@ -14,6 +14,7 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
+title: 'Shiny Clean Sounds: Sound Design That Shines'
 cta:
   domain: null
   bucket: null
