@@ -3,11 +3,11 @@ inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
-datePublished: '2016-01-13T20:19:19.567Z'
-dateModified: '2016-01-13T20:19:14.466Z'
+datePublished: '2016-01-13T20:24:36.178Z'
+dateModified: '2016-01-13T20:24:34.000Z'
 title: "Cast:\_Alejandro\nPolanco, Ahmad Razvi"
 author: []
 sourcePath: _posts/2016-01-13-cast-alejandro-polanco-ahmad-razvi.md
@@ -100,8 +100,14 @@ __
 Anne Sundberg) --- _The Trials of Darryl Hunt_ is a feature
 documentary about a brutal rape/murder case and a wrongly convicted man, Darryl
 Hunt, who spent nearly twenty years in prison for a crime he did not commit.
-
 ![Man Push Cart](https://the-grid-user-content.s3-us-west-2.amazonaws.com/db855fef-3948-4f2e-aed3-30b3104b4af6.jpg)
+![](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/64005a98db785f13b22323be54d11dae/passthrough.jpg?height=600&input=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fthe-grid-img%2Fp%2F5677bdc1412d8ef80b1661ef33c1d76934774813.jpg&width=390)
+
+# ADR Editor
+
+Winner of the InterFilm Jury Award: 2006 Riga International Film Forum, Winner Best Narrative Feature: 2006 Ojai Film Festival, Winner of the FIPRESCI Prize: 2005 London Film Festival
+
+Uploading Item...
 
 # 
 
