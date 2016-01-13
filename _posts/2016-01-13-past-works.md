@@ -1,13 +1,13 @@
 ---
-inFeed: false
+inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-13T21:36:55.730Z'
-dateModified: '2016-01-13T21:36:53.309Z'
+datePublished: '2016-01-13T22:02:10.949Z'
+dateModified: '2016-01-13T22:02:08.174Z'
 title: Past Works
 author: []
 sourcePath: _posts/2016-01-13-past-works.md
@@ -19,7 +19,7 @@ publisher:
   url: null
   favicon: null
 url: past-works/index.html
-_type: WebPage
+_type: Article
 
 ---
 ![Goodbye Solo](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d030a0be-a33a-428b-870e-0f1580055250.jpg)
