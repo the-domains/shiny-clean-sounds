@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-01-13T21:20:32.892Z'
-dateModified: '2016-01-13T21:20:29.089Z'
+datePublished: '2016-01-13T21:34:10.470Z'
+dateModified: '2016-01-13T21:34:06.501Z'
 title: Past Works
 author: []
 sourcePath: _posts/2016-01-13-past-works.md
@@ -34,6 +34,8 @@ unlikely friendship that will change both of their lives forever.
 __
 
 _Cast: Souleymane Sy Savane, Red West_
+
+__
 ![Chop Shop](https://s3-us-west-2.amazonaws.com/the-grid-img/p/4250fc60306d44efd3e827e62b185eebd019bc22.jpg)
 
 ****
@@ -50,6 +52,8 @@ __
 
 _Cast: Alejandro
 Polanco, Ahmad Razvi_
+
+__
 ![Where God Left His Shoes](https://the-grid-user-content.s3-us-west-2.amazonaws.com/cd4ce182-b33d-4c33-bfa0-00774b3e47e6.jpg)
 
 ****
@@ -63,6 +67,8 @@ __
 
 _Cast: John Leguizamo,
 Leonor Varela, David Castro_
+
+__
 ![Half Nelson](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d4eb80a2-3422-4074-9f58-ba3e32bf0e96.jpg)
 
 ****
@@ -77,6 +83,8 @@ __
 
 _Cast:
 Ryan Gosling, Anthony Mackie, Shareeka Epps_
+
+__
 ![The War Tapes](https://the-grid-user-content.s3-us-west-2.amazonaws.com/13cd4c87-e0f7-48d7-9c9f-950706a3835c.jpg)
 
 ****
