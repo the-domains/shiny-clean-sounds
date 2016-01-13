@@ -3,21 +3,21 @@ inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
-datePublished: '2016-01-13T21:13:30.321Z'
-dateModified: '2016-01-13T21:13:10.114Z'
+datePublished: '2016-01-13T21:20:32.892Z'
+dateModified: '2016-01-13T21:20:29.089Z'
 title: Past Works
 author: []
+sourcePath: _posts/2016-01-13-past-works.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-13-past-works.md
-published: true
 url: past-works/index.html
 _type: WebPage
 
