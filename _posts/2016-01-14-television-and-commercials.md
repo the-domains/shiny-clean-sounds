@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-14T18:12:14.004Z'
-dateModified: '2016-01-14T18:05:05.316Z'
+datePublished: '2016-01-14T18:13:20.193Z'
+dateModified: '2016-01-14T18:13:14.619Z'
 title: 'Television & Commercials'
 author: []
+sourcePath: _posts/2016-01-14-television-and-commercials.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-14-television-and-commercials.md
-published: true
 url: television-and-commercials/index.html
 _type: Article
 
