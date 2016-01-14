@@ -1,25 +1,25 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-14T18:12:14.078Z'
-dateModified: '2016-01-14T18:11:59.867Z'
+datePublished: '2016-01-14T18:15:42.539Z'
+dateModified: '2016-01-14T18:15:37.283Z'
 title: Video Games
 author: []
+sourcePath: _posts/2016-01-14-video-games.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-14-video-games.md
-published: true
 url: video-games/index.html
-_type: Article
+_type: WebPage
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/13fcd7a7-63ab-4893-8700-42dab979eaa5.jpg)
