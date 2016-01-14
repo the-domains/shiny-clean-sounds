@@ -3,11 +3,11 @@ inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
-datePublished: '2016-01-14T18:15:42.539Z'
-dateModified: '2016-01-14T18:15:37.283Z'
+datePublished: '2016-01-14T18:19:01.401Z'
+dateModified: '2016-01-14T18:18:58.992Z'
 title: Video Games
 author: []
 sourcePath: _posts/2016-01-14-video-games.md
