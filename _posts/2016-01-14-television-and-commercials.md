@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-14T20:41:15.887Z'
-dateModified: '2016-01-14T20:41:14.040Z'
+datePublished: '2016-01-14T22:32:02.448Z'
+dateModified: '2016-01-14T22:31:05.384Z'
 title: 'Television & Commercials'
 author: []
 sourcePath: _posts/2016-01-14-television-and-commercials.md
@@ -30,6 +30,13 @@ _type: WebPage
 
 **Sound Design**
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3626cc94-226c-43a5-871a-2e03590e706e.png)
+
+# ESPN 30 for 30
+
+## Ali: The Mission
+
+**ADR Mixer**
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/38d9daf6-95f4-4fde-91c5-6a5e17e93c18.jpg)
 
 # Man vs. Food
 
