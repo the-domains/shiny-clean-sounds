@@ -1,13 +1,13 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-14T18:13:20.193Z'
-dateModified: '2016-01-14T18:13:14.619Z'
+datePublished: '2016-01-14T18:23:03.393Z'
+dateModified: '2016-01-14T18:23:00.905Z'
 title: 'Television & Commercials'
 author: []
 sourcePath: _posts/2016-01-14-television-and-commercials.md
@@ -19,7 +19,7 @@ publisher:
   url: null
   favicon: null
 url: television-and-commercials/index.html
-_type: Article
+_type: WebPage
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3626cc94-226c-43a5-871a-2e03590e706e.png)
