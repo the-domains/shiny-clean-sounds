@@ -1,13 +1,13 @@
 ---
-inFeed: false
+inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-14T18:25:48.223Z'
-dateModified: '2016-01-14T18:25:43.669Z'
+datePublished: '2016-01-14T19:49:51.087Z'
+dateModified: '2016-01-14T19:49:46.903Z'
 title: Video Games
 author: []
 sourcePath: _posts/2016-01-14-video-games.md
@@ -19,10 +19,31 @@ publisher:
   url: null
   favicon: null
 url: video-games/index.html
-_type: WebPage
+_type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/13fcd7a7-63ab-4893-8700-42dab979eaa5.jpg)
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/efb3dc80c641265336e31cc991ea5188624ee938.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ce2c08c0-e588-4f70-9698-aad3d8d32cd4.jpg)
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/6f19826542047f8bd09d544e7738c973ef3715d2.jpg)
+# Video Games
+
+# Grand Theft Auto Episode from Liberty City
+
+## The Ballad of Gay Tony
+
+**Voiceover Engineer **
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/e3a7515112fb7086dc2af3aeb42e7e94d99ec469.jpg)
+
+# Bully
+
+**Assistant Foley Engineer**
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9858328a-e86f-43df-aa86-1841c23fdcf1.jpg)
+
+# Grand Theft Auto
+
+## San Andreas
+
+**Assistant Foley Engineer**
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b5cacd1d-9291-4a1d-892a-3d6c0bd2657a.jpg)
+
+# The Warriors
+
+**Assistant Voiceover & Foley Engineer**
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/10a583b9e78d564c6f250836bd0c067c6a2b38bf.jpg)
