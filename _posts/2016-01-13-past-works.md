@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
-datePublished: '2016-01-14T20:25:18.164Z'
-dateModified: '2016-01-14T20:24:43.773Z'
+datePublished: '2016-01-14T20:40:29.708Z'
+dateModified: '2016-01-14T20:40:27.168Z'
 title: Past Works
 author: []
 sourcePath: _posts/2016-01-13-past-works.md
