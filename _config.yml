@@ -1,6 +1,6 @@
 name: Shiny Clean Sounds
 favicon: null
-layout_spectrum: 0.24541
+layout_spectrum: 0
 typography_spectrum: 0.6678
 collections:
   - index:
@@ -29,12 +29,12 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ffffff'
     - '#000000'
-    - '#e2483a'
-    - '#8e8e8e'
-    - '#585858'
-  brandStrength: 0.5
+    - '#ffffff'
+    - '#e34638'
+    - '#808080'
+    - '#b8b8b8'
+  brandStrength: 0.1875
   lightness: 0.75
   saturation: 0.5
   rhythmicContrast: 1
