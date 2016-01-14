@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-14T20:41:00.511Z'
-dateModified: '2016-01-14T20:40:56.991Z'
+datePublished: '2016-01-14T20:51:19.589Z'
+dateModified: '2016-01-14T20:51:14.456Z'
 title: Video Games
 author: []
 sourcePath: _posts/2016-01-14-video-games.md
