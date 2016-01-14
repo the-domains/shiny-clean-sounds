@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-14T20:25:06.398Z'
-dateModified: '2016-01-14T20:25:04.367Z'
+datePublished: '2016-01-14T20:41:15.887Z'
+dateModified: '2016-01-14T20:41:14.040Z'
 title: 'Television & Commercials'
 author: []
 sourcePath: _posts/2016-01-14-television-and-commercials.md
