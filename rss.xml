@@ -2,27 +2,26 @@
     <channel>
         <title><![CDATA[Sound Editorial & Design]]></title>
         <description><![CDATA[Sound Editorial & Design]]></description>
-        <link>https://thegrid.ai/shiny-clean-sounds/</link>
+        <link>http://shinycleansounds.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 14 Jan 2016 22:04:49 GMT</lastBuildDate>
-        <atom:link href="https://thegrid.ai/shiny-clean-sounds/rss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 15 Jan 2016 17:18:43 GMT</lastBuildDate>
+        <atom:link href="http://shinycleansounds.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Latest Works]]></title>
             <description><![CDATA[<article><h1>Latest Works</h1><h2>2016 U.S. Drama Competition: Sundance Film Festival</h2><p>Sound Effects Editor & Special Design Effects</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/dcc9d623392df876f15dff1df55ae9acaeb3733c.png"></article>]]></description>
-            <link>https://thegrid.ai/shiny-clean-sounds/as-you-are/index.html</link>
+            <link>http://shinycleansounds.com/as-you-are/index.html</link>
             <guid isPermaLink="false">061fe0d5-5633-467b-8762-5f80f94ee7ad</guid>
             <pubDate>Thu, 14 Jan 2016 20:29:39 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[About  Me]]></title>
-            <description><![CDATA[<article><h1>About  Me</h1><p>I am an Avid
-Certified Instructor in Pro Tools and a proud member of Post New York Alliance,
-highly proficient in recording and editing techniques of voiceover, ADR, and
-Foley, and well-versed in methods of sound design and mixing for film and
-television standards. A comprehensive list of film credits is available on IMDB.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/44c7b2980156d2baf0024cef7991ef0e2e818f5c.png"></article>]]></description>
-            <link>https://thegrid.ai/shiny-clean-sounds/about-me/index.html</link>
+            <title><![CDATA[Nicholas Schenck]]></title>
+            <description><![CDATA[<article><h1>Nicholas Schenck</h1><p>I received
+a Bachelor’s Degree from Manhattanville College where I studied music
+composition, performance, and business, having performed in several groups, and
+continue to compose and perform solo.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/44c7b2980156d2baf0024cef7991ef0e2e818f5c.png"></article>]]></description>
+            <link>http://shinycleansounds.com/about-me/index.html</link>
             <guid isPermaLink="false">98cf66be-d3e1-4656-841f-4fe92901b89a</guid>
-            <pubDate>Thu, 14 Jan 2016 22:04:47 GMT</pubDate>
+            <pubDate>Fri, 15 Jan 2016 17:18:21 GMT</pubDate>
         </item>
     </channel>
 </rss>
